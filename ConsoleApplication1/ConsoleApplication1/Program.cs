@@ -10,6 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            var x = "abc123";
+            var t = "3k";
         }
     }
 }
